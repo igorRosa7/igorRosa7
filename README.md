@@ -1,9 +1,8 @@
 <h1 align="center">Olá, sou o Igor 👋 </h1>
 
 <div align="center">
-Sou estudante de Gestão da Tecnologia da Informação 🎓, com conhecimento em TypeScript 💻, React ⚛️ e Node.js 🌐.<br>
-Atualmente focado em aprimorar minhas habilidades em Data Science 📊 e Python 🐍.<br>
-Apaixonado por aprender e transformar ideias em soluções 🚀.<br>
+Desenvolvedor de software 💻 com experiência em tecnologias web modernas.<br>
+Trabalhando com TypeScript, React, Node.js e outras ferramentas do ecossistema JavaScript.<br>
 </div>
 
 <div align="center"><br><br>
